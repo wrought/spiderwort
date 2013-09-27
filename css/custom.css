@@ -6,3 +6,8 @@
   border: none;
 }
 
+p.caption {
+  padding: 10px;
+  font-style: italic;
+  text-align: center;
+}
